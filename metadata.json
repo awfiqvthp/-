@@ -1,0 +1,5 @@
+{
+  "name": "Ophthalmic Audit AI",
+  "description": "An AI-powered quality control tool for ophthalmic medical records, detecting logical errors and compliance issues.",
+  "requestFramePermissions": []
+}
